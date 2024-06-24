@@ -1,14 +1,15 @@
-Running the Script:
+#Running the Script:
 
-Processing and Storing Chunks: 
-Place your text file in the project directory and execute the script with Python. 
+#Processing and Storing Chunks: 
 
-Make sure your virtual environment where Python is set up is active.
+#Place your text file in the project directory and execute the script with Python. 
 
-Retrieving and Using Chunks: Use the retrieve_chunks() function within the script or integrate it into your application to get the chunks for further processing.
+#Make sure your virtual environment where Python is set up is active.
+
+#Retrieving and Using Chunks: Use the retrieve_chunks() function within the script or integrate it into your application to get the chunks for further processing.
 
 
-junebug_prompts_chunks_project/
+#junebug_prompts_chunks_project/
 │
 ├── virtual/                # Virtual environment folder
 │
